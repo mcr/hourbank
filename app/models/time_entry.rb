@@ -1,8 +1,8 @@
 class TimeEntry < ActiveRecord::Base
   belongs_to :project
-  belongs_to :issue
-  belongs_to :user
-  belongs_to :activity, :class_name => 'Enumeration', :foreign_key => :activity_id
+  #belongs_to :issue
+  #belongs_to :user
+  #belongs_to :activity, :class_name => 'Enumeration', :foreign_key => :activity_id
 
   validates_numericality_of :hours, :allow_nil => true, :message => :activerecord_error_invalid
 
