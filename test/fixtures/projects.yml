@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  parent_id: 1
+  identifier: MyString
+  status: 1
+  sponsor_id: 1
+
+two:
+  name: MyString
+  parent_id: 1
+  identifier: MyString
+  status: 1
+  sponsor_id: 1
