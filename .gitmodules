@@ -1,3 +1,7 @@
 [submodule "vendor/plugins/can-o-pg"]
 	path = vendor/plugins/can-o-pg
 	url = git://github.com/mcr/can-o-pg.git
+
+[submodule "vendor/plugins/active_scaffold"]
+	path = vendor/plugins/active_scaffold
+	url = git://github.com/activescaffold/active_scaffold.git
