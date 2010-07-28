@@ -33,3 +33,7 @@ Hourbank3::Application.configure do
   # Print deprecation notices to the stderr
   config.active_support.deprecation = :stderr
 end
+
+$CodeUrl='http://'
+$CodeHost='localhost:3100'
+
