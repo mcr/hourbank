@@ -7,3 +7,6 @@
 	url = git://github.com/vhochstein/active_scaffold.git
         # was git://github.com/activescaffold/active_scaffold.git
 
+[submodule "vendor/plugins/verification"]
+	path = vendor/plugins/verification
+	url = git://github.com/rails/verification.git
