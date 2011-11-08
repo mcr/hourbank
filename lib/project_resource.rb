@@ -1,3 +1,5 @@
+require 'redmine_resource'
+
 class ProjectResource < RedmineResource
   self.collection_name='projects'
   self.format = :json

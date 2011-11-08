@@ -1,3 +1,4 @@
+
 namespace :hourbank do
   desc "Load new time log entries"
   task :load => :environment do

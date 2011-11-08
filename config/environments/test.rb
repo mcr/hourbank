@@ -36,4 +36,5 @@ end
 
 $CodeUrl='http://'
 $CodeHost='localhost:3100'
+$CodeKey='d4068aa3eca10c9e8fde8c9cc42abcb2776e3bd4'
 
